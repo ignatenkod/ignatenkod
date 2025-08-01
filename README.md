@@ -1,4 +1,4 @@
-# 👋 Привет, я [Диана] | Python Backend Developer
+# 👋 Привет, я Диана | Python Backend Developer
 
 **Стек:** Python, FastAPI, Django, Flask, PostgreSQL, Docker, REST API
 
